@@ -1,0 +1,2 @@
+pysocks>=1.7.1
+# tkinter is part of the Python standard library on Windows
